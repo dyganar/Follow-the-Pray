@@ -4,9 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - peixe
+  - Shark
+  - Fish
   - Moeda
-  - tubarao
+  - Bomba
+  - Boost
   - algas
   layers:
   - Default
