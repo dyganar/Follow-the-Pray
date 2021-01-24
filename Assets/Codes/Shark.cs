@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Shark : MonoBehaviour
 {
@@ -31,6 +32,9 @@ public class Shark : MonoBehaviour
         if (collision.gameObject.CompareTag("Fish"))
         {
             Destroy(fish);
+            
+            SceneManager.LoadScene(1);
+        
         }
 
     }

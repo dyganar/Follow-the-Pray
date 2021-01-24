@@ -5,14 +5,18 @@ using UnityEngine.SceneManagement;
 
 public class Reiniciar : MonoBehaviour
 {
+
+    
+
+    void Start() {
+
+
+    }
+
     void Update()
     {
-        if (this.gameObject)
-        {
-            if (Input.GetKeyDown(KeyCode.Mouse0))
-            {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-            }
-        }
+    
+        SceneManager.LoadScene(1);
+        
     }
 }
