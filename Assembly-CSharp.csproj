@@ -36,11 +36,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\move.cs" />
-     <Compile Include="Assets\moveMoeda.cs" />
-     <Compile Include="Assets\moverAlga.cs" />
-     <Compile Include="Assets\scrollingBackground.cs" />
-     <Compile Include="Assets\tubarao.cs" />
+     <Compile Include="Assets\Codes\Move.cs" />
+     <Compile Include="Assets\Codes\MoveCamera.cs" />
+     <Compile Include="Assets\Codes\Reiniciar.cs" />
+     <Compile Include="Assets\Codes\Shark.cs" />
+     <Compile Include="Assets\Codes\XMoveShark.cs" />
+     <Compile Include="Assets\Codes\menuMoeda.cs" />
+     <Compile Include="Assets\Codes\moveFundo1.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
