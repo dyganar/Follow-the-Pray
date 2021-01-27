@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class XMoveShark : MonoBehaviour
 {
-    float vel = 5.7f;
+    public float vel = 5.7f;
 
     void Start()
     {

@@ -9,9 +9,10 @@ TagManager:
   - Moeda
   - Bomba
   - Boost
-  - algas
   - fundo
   - ponto
+  - Lula
+  - Mancha
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Peixe
   - 
   - 
   - 

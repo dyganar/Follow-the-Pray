@@ -41,6 +41,8 @@
      <Compile Include="Assets\Codes\Reiniciar.cs" />
      <Compile Include="Assets\Codes\Shark.cs" />
      <Compile Include="Assets\Codes\XMoveShark.cs" />
+     <Compile Include="Assets\Codes\coletaMoeda.cs" />
+     <Compile Include="Assets\Codes\criarObj.cs" />
      <Compile Include="Assets\Codes\menuMoeda.cs" />
      <Compile Include="Assets\Codes\moveFundo1.cs" />
     <Reference Include="UnityEngine">
